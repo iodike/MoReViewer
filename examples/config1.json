@@ -1,0 +1,10 @@
+{
+    "columns": {
+        "input": 1,
+        "prediction": 2,
+        "tags": 3,
+        "ground-truth": 4,
+        "alignment": 0,
+        "features": 0
+    }
+}

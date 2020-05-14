@@ -1,0 +1,45 @@
+{
+    "grammar":{
+        "LEXIS":{
+            "N": "Noun",
+            "V": "Verb",
+            "ADJ": "Adjective"
+        },
+        "NUMBER":{
+            "SG": "Singular",
+            "PL": "Plural"
+        },
+        "CASES":{
+            "NOM": "Nominative",
+            "GEN": "Genitive",
+            "ACC": "Accusative",
+            "DAT": "Dative"
+        },
+        "MOOD":{
+            "IND": "Indicative",
+            "SBJV": "Subjunctive",
+            "IMP": "Imperative"
+        },
+        "TENSE":{
+            "PST": "Past",
+            "PRES": "Present"
+        },
+        "PERSON":{
+            "1": "First",
+            "2": "Second",
+            "3": "Third"
+        }
+    },
+    "grammar-dependencies": {
+        "LEXIS:N": [
+            "NUMBER",
+            "CASES"
+        ],
+        "LEXIS:V": [
+            "NUMBER",
+            "MOOD",
+            "TENSE",
+            "PERSON"
+        ]
+    }
+}

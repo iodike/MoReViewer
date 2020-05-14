@@ -1,0 +1,1000 @@
+korrodieren	korrodiert	V;SBJV;PRS;2;SG	korrodierest	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+Gehölz	Gehölze	N;NOM;PL	Gehölze	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+gewöhnen	gewöhne	V;SBJV;PRS;3;SG	gewöhne	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Schützenfisch	Schützenfischen	N;NOM;PL	Schützenfische	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Parathormon	Parathormonen	N;ACC;PL	Parathormone	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+Verwahrlosung	Verwahrlosungen	N;NOM;PL	Verwahrlosungen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+generalisieren	generalisiert	V;IMP;2;SG	generalisier	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ 2
+Asiatin	Asiatinen	N;ACC;PL	Asiatinnen	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+entwaffnen	waffnet	V;SBJV;PRS;2;SG	entwaffnest	4-5-6-7-8-9-10	_ _ _ _ _ _ 2
+Einfarbralle	Einfarbralle	N;NOM;SG	Einfarbralle	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+identifizieren	identifizierte	V;IND;PST;1;SG	identifizierte	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ IND IND
+tarnen	tarneten	V;IND;PST;3;PL	tarnten	1-2-3-4-5-6-7-7	_ _ _ _ _ IND IND IND
+Glasscheibe	Glasscheiben	N;DAT;PL	Glasscheiben	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ PL
+einteilen	einteilest	V;IMP;2;SG	teil ein	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ SG 2
+konzipieren	konzipiert	V;IND;PRS;1;SG	konzipiere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+Kaiserreich	Kaiserreich	N;DAT;SG	Kaiserreich	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Städter	Städter	N;ACC;SG	Städter	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Ölbaum	Ölbaumes	N;DAT;PL	Ölbäumen	1-2-3-4-5-6-7-7	_ _ _ _ _ _ PL N
+Mineralname	Mineralname	N;ACC;SG	Mineralname	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Nadelbaum	Nadelbaumen	N;DAT;PL	Nadelbäumen	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Silicon	Siliconen	N;NOM;PL	Silicone	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+feilen	feilet	V;IND;PRS;2;PL	feilt	1-2-3-4-5-6	_ _ _ _ _ 2
+verkörpern	verkörper	V;IND;PRS;1;SG	verkörpre	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+reparieren	repariert	V;IND;PRS;1;SG	repariere	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+tadeln	tadelen	V;SBJV;PST;3;PL	tadelten	1-2-3-4-5-6-7	_ _ _ _ _ 3 PL
+denunzieren	denunziert	V;IND;PRS;3;SG	denunziert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+pumpen	pumpeten	V;SBJV;PST;1;PL	pumpten	1-2-3-4-5-6-7-7	_ _ _ _ _ V PST PL
+Wahlkämpferin	Wahlkämpferin	N;NOM;SG	Wahlkämpferin	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+sozialisieren	sozialisierten	V;SBJV;PRS;1;PL	sozialisieren	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ V SBJV PL
+Sicherstellung	Sicherstellung	N;ACC;SG	Sicherstellung	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Fehlgriff	Fehlgriffen	N;ACC;PL	Fehlgriffe	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+adsorbieren	adsorbierten	V;SBJV;PST;1;PL	adsorbierten	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ PST PST PL
+Kastanie	Kastanie	N;ACC;SG	Kastanie	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Stadtparlament	Stadtparlament	N;DAT;PL	Stadtparlamenten	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+verkriechen	verkriechen	V;SBJV;PST;1;PL	verkröchen	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+leiden	leiden	V;IND;PRS;1;PL	leiden	1-2-3-4-5-6	_ _ _ _ _ _
+Kodierungsrichtlinie	Kodierungsrichtlinie	N;DAT;SG	Kodierungsrichtlinie	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+rätseln	rätselt	V;IND;PRS;2;SG	rätselst	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+verformen	verformest	V;IND;PST;1;SG	verformte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ PST IND
+Bipyridin	Bipyridinen	N;ACC;PL	Bipyridine	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Fischbecken	Fischbecken	N;ACC;PL	Fischbecken	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+konnotieren	konnotierte	V;IND;PRS;3;PL	konnotieren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND IND
+Agon	Agones	N;GEN;SG	Agons	1-2-3-4-5-5	_ _ _ _ GEN GEN
+Täubchen	Täubchen	N;ACC;SG	Täubchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+futtern	futtert	V;IND;PRS;1;PL	futtern	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+krösen	kröset	V;SBJV;PRS;2;PL	kröset	1-2-3-4-5-6	_ _ _ _ _ 2
+Zirkel	Zirkel	N;NOM;SG	Zirkel	1-2-3-4-5-6	_ _ _ _ _ _
+Weltberühmtheit	Weltberühmtheit	N;NOM;SG	Weltberühmtheit	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Freundchen	Freundchen	N;DAT;SG	Freundchen	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Kartograf	Kartograf	N;NOM;SG	Kartograf	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Änderung	Änderungen	N;DAT;PL	Änderungen	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Beteiligte	Beteiligten	N;GEN;SG	Beteiligten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ GEN
+Halophyt	Halophyten	N;NOM;PL	Halophyten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+werden	werdenen	V;SBJV;PST;1;PL	würden	1-2-3-4-5-6-7-7	_ _ _ _ _ _ PST
+Clausthalit	Clausthaliten	N;ACC;PL	Clausthalite	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+Waagschale	Waagschalen	N;NOM;PL	Waagschalen	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Stele	Stele	N;ACC;SG	Stele	1-2-3-4-5	_ _ _ _ _
+desavouieren	desavouiert	V;NFIN	desavouieren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ V
+Kescher	Kescher	N;DAT;SG	Kescher	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Wipfel	Wipfel	N;ACC;SG	Wipfel	1-2-3-4-5-6	_ _ _ _ _ _
+Buckelwal	Buckelwalen	N;GEN;PL	Buckelwale	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+radikalisieren	radikalisiert	V;SBJV;PRS;1;SG	radikalisiere	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ SBJV
+veranstalten	veranstalteten	V;SBJV;PST;3;PL	veranstalteten	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ V PST PL
+Fehlercode	Fehlercode	N;NOM;SG	Fehlercode	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Imperium	Imperium	N;DAT;SG	Imperium	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Magnolie	Magnolien	N;ACC;PL	Magnolien	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+versifizieren	versifiziert	V;IND;PRS;3;SG	versifiziert	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ IND
+reparieren	repariert	V;IND;PRS;2;PL	repariert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+Narzisse	Narzissen	N;DAT;PL	Narzissen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+Knospe	Knospen	N;ACC;PL	Knospen	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+abrunden	abrundeten	V;IND;PST;3;PL	rundeten ab	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ IND PL PL
+Melde	Meldes	N;GEN;SG	Melde	1-2-3-4-5-6	_ _ _ _ _ GEN
+Herabsetzung	Herabsetzungen	N;ACC;PL	Herabsetzungen	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Kanake	Kanake	N;NOM;SG	Kanake	1-2-3-4-5-6	_ _ _ _ _ _
+Frequenzbereich	Frequenzbereich	N;DAT;SG	Frequenzbereich	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+knacken	knacket	V;IMP;2;PL	knackt	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+Pflanzenschutz	Pflanzenschutze	N;ACC;SG	Pflanzenschutz	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+benennen	benennen ben	V;SBJV;PRS;2;PL	benennet	1-2-3-4-5-6-7-8-9-1-2-3	_ _ _ _ _ _ _ _ PL _ _ _
+Ableger	Ableger	N;NOM;PL	Ableger	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+nächtigen	nächtigen	V;IND;PST;1;PL	nächtigten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Autodidakt	Autodidakt	N;ACC;SG	Autodidakten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+schmusen	schmuseten	V;SBJV;PST;2;PL	schmustet	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ 2 PST PL
+Zapfen	Zapfen	N;GEN;SG	Zapfens	1-2-3-4-5-6	_ _ _ _ _ _
+mähen	mähete	V;IND;PST;3;SG	mähte	1-2-3-4-5-6	_ _ _ _ IND IND
+Klausur	Klausures	N;DAT;PL	Klausuren	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL N
+entlauben	laubeten	V;IND;PST;3;PL	entlaubten	4-5-6-7-8-9-10-10	_ _ _ _ _ IND PL PL
+Feuerwanze	Feuerwanzen	N;NOM;PL	Feuerwanzen	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Ludwigsburger	Ludwigsburger	N;NOM;SG	Ludwigsburger	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Haastadler	Haastadlern	N;DAT;PL	Haastadlern	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Ausreise	Ausreisen	N;GEN;PL	Ausreisen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+versammeln	versammel	V;SBJV;PRS;3;SG	versammele	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+zumachen	zumachen	V.PTCP;PST	zugemacht	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Carbid	Carbid	N;ACC;SG	Carbid	1-2-3-4-5-6	_ _ _ _ _ _
+mangeln	mangelt	V;IND;PRS;1;PL	mangeln	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+wegtolerieren	wegtolerierten	V;SBJV;PST;2;PL	toleriertet weg	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ PL 2 PL
+Verpackung	Verpackung	N;DAT;SG	Verpackung	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Bügel	Bügel	N;DAT;SG	Bügel	1-2-3-4-5	_ _ _ _ _
+Freudentaumel	Freudentaumel	N;GEN;SG	Freudentaumels	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Model-View-Controller	Model-View-Controllern	N;DAT;PL	Model-View-Controllern	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ DAT
+Exhibitionist	Exhibitionisten	N;GEN;PL	Exhibitionisten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Bundesministerium	Bundesministerium	N;DAT;SG	Bundesministerium	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Bühnenautor	Bühnenautor	N;DAT;SG	Bühnenautor	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Börek	Börekes	N;GEN;PL	Böreks	1-2-3-4-5-6-6	_ _ _ _ _ GEN GEN
+entkorken	entkorket	V;SBJV;PRS;2;PL	entkorket	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Hafenmeisterin	Hafenmeisterin	N;ACC;SG	Hafenmeisterin	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Bagger	Bagger	N;ACC;SG	Bagger	1-2-3-4-5-6	_ _ _ _ _ _
+in Abrede stellen	in Abrede stellt	V;IND;PRS;1;SG	stelle in Abrede	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ IND
+zocken	zocken	V;SBJV;PRS;1;PL	zocken	1-2-3-4-5-6	_ _ _ _ _ _
+entlauben	lauben ent	V;SBJV;PST;1;PL	entlaubten	4-5-6-7-8-9-10-1-2-3	_ _ _ _ _ _ V _ _ _
+engagieren	engagierten	V;SBJV;PST;2;PL	engagiertet	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ 2 PST PL
+eintragen	eintragen	V;SBJV;PST;1;PL	trügen ein	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Araber	Araber	N;GEN;PL	Araber	1-2-3-4-5-6	_ _ _ _ _ _
+Bettchen	Bettchen	N;ACC;SG	Bettchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+schwänzeln	schwänzelt	V;IND;PRS;2;SG	schwänzelst	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+Feingehaltstempel	Feingehaltstempeln	N;ACC;PL	Feingehaltstempel	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+vorhersagen	vorhersagte	V;IND;PRS;1;PL	sagen vorher	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND IND
+fetzen	fetzen	V;SBJV;PRS;3;PL	fetzen	1-2-3-4-5-6	_ _ _ _ _ _
+Kaufhaus	Kaufhaus	N;NOM;SG	Kaufhaus	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Gegenbeschuldigung	Gegenbeschuldigungen	N;NOM;PL	Gegenbeschuldigungen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Schubkarre	Schubkarren	N;ACC;PL	Schubkarren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Silbenstrich	Silbenstrichen	N;GEN;SG	Silbenstriches	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ GEN GEN
+Fundbüro	Fundbüro	N;ACC;SG	Fundbüro	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Kernwaffenversuch	Kernwaffenversuchen	N;GEN;PL	Kernwaffenversuche	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN PL
+Kapitalzufluss	Kapitalzuflussen	N;NOM;PL	Kapitalzuflüsse	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Edelmetall	Edelmetall	N;ACC;SG	Edelmetall	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Erythrozyt	Erythrozyt	N;DAT;SG	Erythrozyten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+kriechen	kriechten	V;IND;PST;2;PL	krocht	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ IND IND PL
+Maßband	Maßbanden	N;ACC;PL	Maßbänder	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+fachen	fachen	V;IND;PRS;1;PL	fachen	1-2-3-4-5-6	_ _ _ _ _ _
+sitzen	sitze	V;IND;PRS;1;SG	sitze	1-2-3-4-5	_ _ _ _ _
+Vorstandsmitglied	Vorstandsmitglied	N;GEN;SG	Vorstandsmitgliedes	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Schwerhörigkeit	Schwerhörigkeit	N;DAT;SG	Schwerhörigkeit	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Dissident	Dissident	N;ACC;SG	Dissidenten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+schmelzen	schmelze	V;IND;PRS;1;SG	schmelze	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+versorgen	versorgen	V;IND;PST;1;PL	versorgten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Assistent	Assistent	N;NOM;SG	Assistent	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+erklingen	erklingen	V;IND;PST;1;PL	erklangen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+erstrecken	erstreckt	V;SBJV;PRS;2;SG	erstreckest	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Schal	Schal	N;ACC;SG	Schal	1-2-3-4-5	_ _ _ _ _
+verdrießen	verdrießtest	V;SBJV;PST;2;SG	verdrössest	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ 2 PST 2 2
+Cappuccino	Cappuccino	N;DAT;SG	Cappuccino	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+absolvieren	absolvierten	V;IND;PST;2;PL	absolviertet	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ IND PST PL
+Aufrührerin	Aufrührerin	N;DAT;SG	Aufrührerin	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Ungeziefer	Ungeziefer	N;GEN;SG	Ungeziefers	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Karer	Karer	N;ACC;SG	Karer	1-2-3-4-5	_ _ _ _ _
+schauspielern	schauspielert	V;SBJV;PST;1;SG	schauspielerte	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ PST
+knüpfen	knüpftest	V;IND;PST;2;SG	knüpftest	1-2-3-4-5-6-7-8-8	_ _ _ _ _ IND IND SG IND
+vollenden	vollenden	V;IND;PST;1;PL	vollendeten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Kännchen	Kännchen	N;NOM;PL	Kännchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+umlegen	umlegen	V;SBJV;PST;1;PL	legten um	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+vergiften	vergiftt	V;IND;PRS;2;SG	vergiftest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+rüsten	rüsten	V.PTCP;PRS	rüstend	1-2-3-4-5-6	_ _ _ _ _ _
+Dummkopf	Dummkopf	N;NOM;SG	Dummkopf	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Chauffeur	Chauffeur	N;NOM;SG	Chauffeur	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Warteschlange	Warteschlangen	N;GEN;SG	Warteschlange	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ GEN
+schlucken	schluckt	V;SBJV;PRS;3;SG	schlucke	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ V
+Bach	Bach	N;NOM;SG	Bach	1-2-3-4	_ _ _ _
+vergiften	vergifte	V;SBJV;PRS;3;SG	vergifte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+blockieren	blockierten	V;IND;PST;1;PL	blockierten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ IND IND PL
+erschießen	erschießen	V.PTCP;PST	erschossen	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+vertreten	vertrete	V;IND;PRS;1;SG	vertrete	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Produktvergleich	Produktvergleichen	N;GEN;SG	Produktvergleichs	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N GEN
+ergattern	gattern	V.PTCP;PRS	ergatternd	3-4-5-6-7-8-9	_ _ _ _ _ _ _
+tüfteln	tüfteln	V;SBJV;PRS;1;PL	tüfteln	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Seuche	Seuchen	N;DAT;PL	Seuchen	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+Kate	Kate	N;GEN;SG	Kate	1-2-3-4	_ _ _ _
+entleeren	leeren	V.PTCP;PRS	entleerend	4-5-6-7-8-9	_ _ _ _ _ _
+Wirtshaus	Wirtshausen	N;GEN;PL	Wirtshäuser	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Überheblichkeit	Überheblichkeiten	N;DAT;PL	Überheblichkeiten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+implodieren	implodierte	V;SBJV;PST;1;SG	implodierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ PST PST
+ernennen	ernenneten	V;IND;PST;3;PL	ernannten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ IND PL PL
+entladen	ladet en	V;IMP;2;PL	entladet	4-5-6-7-8-9-1-2	_ _ _ _ 2 V _ _
+Gneis	Gneis	N;DAT;SG	Gneis	1-2-3-4-5	_ _ _ _ _
+revoltieren	revoltiert	V;SBJV;PRS;1;SG	revoltiere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+verarmen	verarmet	V;IND;PST;2;PL	verarmtet	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Brutreaktor	Brutreaktoren	N;GEN;SG	Brutreaktors	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ N GEN
+bombardieren	bombardiert	V;SBJV;PRS;2;PL	bombardieret	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+strapazieren	strapazieren	V.PTCP;PRS	strapazierend	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Rede	Redeses	N;GEN;PL	Reden	1-2-3-4-5-5-5	_ _ _ _ GEN GEN
+temperieren	temperierte	V;SBJV;PST;2;SG	temperiertest	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ 2 PST
+töten	tötest	V;IND;PRS;2;SG	tötest	1-2-3-4-5-6	_ _ _ _ PRS 2
+dürfen	dürfete	V;SBJV;PST;3;SG	dürfte	1-2-3-4-5-6-7	_ _ _ _ _ V PST
+Schwarzpulver	Schwarzpulver	N;ACC;SG	Schwarzpulver	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+beschichten	beschichtet	V;IND;PRS;2;PL	beschichtet	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND 2
+Belieben	Belieben	N;NOM;SG	Belieben	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Fischotter	Fischotter	N;DAT;SG	Fischotter	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Paginierung	Paginierung	N;DAT;SG	Paginierung	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Verfluchung	Verfluchungen	N;ACC;PL	Verfluchungen	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+bewohnen	bewohnet	V;IMP;2;PL	bewohnt	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Kürbis	Kürbisen	N;GEN;PL	Kürbisse	1-2-3-4-5-6-7-7	_ _ _ _ _ _ GEN PL
+Autorennen	Autorennen	N;DAT;SG	Autorennen	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Schnellkochtopf	Schnellkochtopfen	N;GEN;SG	Schnellkochtopfes	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN GEN
+grabbeln	grabbelt	V;SBJV;PRS;2;PL	grabbelet	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Gottesanbeterin	Gottesanbeterinen	N;DAT;PL	Gottesanbeterinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+taktieren	taktierten	V;SBJV;PST;1;PL	taktierten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ PST PST PL
+Präsidentenwahl	Präsidentenwahlen	N;GEN;PL	Präsidentenwahlen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN GEN
+schneiden	schneidt	V;IND;PRS;2;SG	schneidest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ IND
+Arbeitslohn	Arbeitslohnen	N;GEN;SG	Arbeitslohnes	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ GEN GEN
+sterilisieren	sterilisiert	V;SBJV;PRS;3;SG	sterilisiere	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ SBJV
+jubeln	jubelteste	V;SBJV;PST;2;SG	jubeltest	1-2-3-4-5-6-7-7-7-7	_ _ _ _ _ 2 2 2 2 PST
+Soziologin	Soziologin	N;DAT;SG	Soziologin	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Narkoleptiker	Narkoleptikern	N;DAT;PL	Narkoleptikern	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL
+gefährden	gefährdte	V;IND;PRS;2;PL	gefährdet	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND PL
+verbauen	verbauest	V;IMP;2;SG	verbau	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ 2 2
+Zitronenhai	Zitronenhaien	N;ACC;PL	Zitronenhaie	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+Sprengstoff	Sprengstoffen	N;GEN;SG	Sprengstoffes	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ N N
+transformieren	transformierte	V;SBJV;PST;1;SG	transformierte	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ PST PST
+berichten	berichten	V;IND;PRS;3;PL	berichten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+erröten	errötete	V;IND;PST;1;SG	errötete	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND PST
+anzweifeln	weifeln	V;IND;PRS;1;SG	zweifle an	4-5-6-7-8-9-10	_ _ _ _ _ _ _
+Körperteil	Körperteil	N;NOM;SG	Körperteil	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+entteeren	entteeren	V;SBJV;PRS;1;SG	entteere	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Salzteig	Salzteig	N;NOM;SG	Salzteig	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Theater	Theater	N;GEN;PL	Theater	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Waschnuss	Waschnussen	N;NOM;PL	Waschnüsse	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Hauch	Hauch	N;NOM;SG	Hauch	1-2-3-4-5	_ _ _ _ _
+begehren	begehre	V;IND;PRS;3;SG	begehrt	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+fotographieren	fotographierte	V;SBJV;PST;3;SG	fotographierte	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ PST PST
+Funke	Funke	N;NOM;SG	Funke	1-2-3-4-5	_ _ _ _ _
+schleppen	schleppeten	V;SBJV;PST;3;PL	schleppten	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ V PL PL
+raffinieren	raffinieren	V.PTCP;PST	raffiniert	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Säugling	Säuglinges	N;GEN;SG	Säuglings	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN SG
+applizieren	applizierte	V;SBJV;PST;3;SG	applizierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ PST PST
+realisieren	realisierten	V;IND;PST;1;PL	realisierten	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ IND IND PL
+Bötchen	Bötchen	N;NOM;PL	Bötchen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Deklaration	Deklaration	N;NOM;SG	Deklaration	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Phosphoroxid	Phosphoroxiden	N;ACC;PL	Phosphoroxide	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+durchfahren	durchfahrte	V;IND;PST;2;SG	fuhrst durch	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND IND
+Großzügigkeit	Großzügigkeit	N;DAT;SG	Großzügigkeit	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Klingel	Klingel	N;NOM;PL	Klingeln	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+gustieren	gustierten	V;IND;PST;2;PL	gustiertet	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PL
+Affinität	Affinität	N;ACC;SG	Affinität	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Diskothek	Diskothek	N;GEN;SG	Diskothek	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Todesopfer	Todesopfer	N;ACC;SG	Todesopfer	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Nanotesla	Nanotesla	N;ACC;SG	Nanotesla	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+zacken	zacket	V;SBJV;PST;3;SG	zackte	1-2-3-4-5-6	_ _ _ _ _ V
+angehen	angehtest	V;IND;PST;2;SG	gingst an	1-2-3-4-5-6-7-8-8	_ _ _ _ _ IND 2 SG 2
+schüren	schüren	V.PTCP;PST	geschürt	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Produktion	Produktion	N;DAT;SG	Produktion	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Filterpapier	Filterpapier	N;NOM;SG	Filterpapier	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Blauschimmelkäse	Blauschimmelkäse	N;NOM;SG	Blauschimmelkäse	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+währen	währet	V;IND;PRS;2;PL	währt	1-2-3-4-5-6	_ _ _ _ _ 2
+trompeten	trompett	V;SBJV;PRS;2;SG	trompetest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+polymerisieren	polymerisiert	V;NFIN	polymerisieren	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ V
+rätseln	rätselten	V;IND;PST;3;PL	rätselten	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND IND PL
+Regierungsgeschäfte	Regierungsgeschäfte	N;NOM;SG	Regierungsgeschäfte	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Schwazer	wazer	N;ACC;SG	Schwazer	4-5-6-7-8	_ _ _ _ _
+runden	rundet	V;IND;PRS;2;PL	rundet	1-2-3-4-5-6	_ _ _ _ _ 2
+induzieren	induziert	V;IMP;2;PL	induziert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+wässern	wässerte	V;SBJV;PST;3;SG	wässerte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ SBJV SBJV
+Beugfall	Beugfallen	N;NOM;PL	Beugfälle	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Hertz	Hertze	N;NOM;PL	Hertz	1-2-3-4-5-6	_ _ _ _ _ PL
+testen	testeten	V;SBJV;PST;2;PL	testetet	1-2-3-4-5-6-7-7	_ _ _ _ _ 2 2 PL
+eingreifen	eingreifen	V;SBJV;PRS;3;PL	greifen ein	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Erlöser	Erlöser	N;NOM;PL	Erlöser	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+mitteilen	mitteiltest	V;IND;PST;2;SG	teiltest mit	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ IND IND SG 2
+Staatskasse	Staatskassen	N;GEN;SG	Staatskasse	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ GEN
+entsinnen	entsinnten	V;IND;PRS;2;PL	entsinnt	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND PL PL
+vibrieren	vibrieren	V.PTCP;PRS	vibrierend	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+fließen	fließten	V;SBJV;PST;2;PL	flösset	1-2-3-4-5-6-7-8	_ _ _ _ _ 2 2 PL
+kontrollieren	kontrollierte	V;SBJV;PST;2;SG	kontrolliertest	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ PST PST
+Einspänner	Einspännern	N;DAT;PL	Einspänner	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+überwinden	überwinden	V;IND;PRS;1;PL	überwinden	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Mesologie	Mesologie	N;ACC;SG	Mesologie	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+behandeln	behandelte	V;NFIN	behandeln	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ NFIN NFIN
+Bevölkerungsdichte	Bevölkerungsdichten	N;GEN;PL	Bevölkerungsdichten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+nörgeln	nörgelten	V;IND;PST;1;PL	nörgelten	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND IND PL
+Haltung	Haltungen	N;NOM;PL	Haltungen	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+revidieren	revidierte	V;SBJV;PST;1;SG	revidierte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ PST PST
+meutern	meuterte	V;SBJV;PST;1;SG	meuterte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ SBJV SBJV
+Haltung	Haltung	N;DAT;SG	Haltung	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Dichte	Dichte	N;NOM;SG	Dichte	1-2-3-4-5-6	_ _ _ _ _ _
+sperren	sperren	V;SBJV;PST;1;PL	sperrten	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+suspendieren	suspendiert	V;IND;PRS;1;PL	suspendienieren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+Verbindung	Verbindungen	N;GEN;SG	Verbindung	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ GEN GEN
+mitteilen	mitteileten	V;IND;PST;3;PL	teilten mit	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ IND PL PL
+anschmiegen	anschmiegt	V;IMP;2;SG	schmieg an	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+Anschauung	Anschauungen	N;DAT;PL	Anschauungen	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Bader	Bader	N;ACC;SG	Bader	1-2-3-4-5	_ _ _ _ _
+Berichterstatterin	Berichterstatterinen	N;DAT;PL	Berichterstatterinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N PL
+Schädling	Schädlingen	N;DAT;PL	Schädlingen	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+gehören	gehörtest	V;IND;PST;2;SG	gehörtest	1-2-3-4-5-6-7-8-8	_ _ _ _ _ IND IND 2 IND
+ranken	ranketen	V;IND;PST;1;PL	rankten	1-2-3-4-5-6-7-7	_ _ _ _ _ IND IND IND
+übereilen	übereilest übe	V;SBJV;PRS;2;SG	übereilest	1-2-3-4-5-6-7-8-9-10-10-1-2-3	_ _ _ _ _ _ _ _ SBJV 2 2 _ _ _
+deklamieren	deklamierte	V;IND;PST;3;SG	deklamierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+Purpurschnecke	Purpurschnecken	N;GEN;SG	Purpurschnecke	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN
+Strähne	Strähnen	N;NOM;PL	Strähnen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+Knutschfleck	Knutschfleck	N;NOM;SG	Knutschfleck	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Zain	Zain	N;DAT;SG	Zain	1-2-3-4	_ _ _ _
+Hochsitz	Hochsitz	N;NOM;SG	Hochsitz	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+überschwemmen	überschwemmte	V;IND;PRS;3;PL	überschwemmen	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ IND IND
+appellieren	appelliert	V;SBJV;PRS;3;SG	appelliere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ SBJV
+kreisen	kreiset	V;IND;PRS;2;PL	kreist	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+elektrisieren	elektrisierten	V;IND;PST;1;PL	elektrisierten	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ IND IND PL
+Volksetymologie	Volksetymologien	N;ACC;PL	Volksetymologien	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+kokeln	kokeltest	V;SBJV;PST;2;SG	kokeltest	1-2-3-4-5-6-7-7-7	_ _ _ _ _ 2 2 2 2
+Nichtraucher	Nichtraucher	N;DAT;SG	Nichtraucher	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+tauen	taue	V;SBJV;PRS;3;SG	taue	1-2-3-4	_ _ _ _
+zerfließen	zerfließt	V;SBJV;PRS;3;SG	zerfließe	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ V
+erzeugen	erzeugtest	V;SBJV;PST;2;SG	erzeugtest	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ 2 2 SG 2
+Magensaft	Magensaftes	N;GEN;SG	Magensaftes	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ GEN SG
+statuieren	statuierten	V;SBJV;PST;2;PL	statuiertet	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ 2 PST PL
+möblieren	möblierte	V;IND;PST;3;SG	möblierte	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND IND
+vibrieren	vibrieren	V.PTCP;PST	vibriert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Canfieldit	Canfielditen	N;DAT;PL	Canfielditen	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Ankläger	Ankläger	N;DAT;SG	Ankläger	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+vermengen	vermengen	V;SBJV;PST;1;PL	vermengten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+exorzieren	exorziert	V;IMP;2;SG	exorzier	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Bummel	Bummel	N;ACC;SG	Bummel	1-2-3-4-5-6	_ _ _ _ _ _
+flunkern	flunkerte	V;SBJV;PST;3;SG	flunkerte	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ V PST
+festen	festee	V;SBJV;PST;3;SG	festete	1-2-3-4-5-6	_ _ _ _ _ 3
+Havarie	Havarien	N;ACC;PL	Havarien	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+Auswirkung	Auswirkungen	N;NOM;PL	Auswirkungen	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+ähneln	ähnelt	V;IMP;2;PL	ähnelt	1-2-3-4-5-6	_ _ _ _ _ 2
+Eucharistie	Eucharistien	N;GEN;SG	Eucharistie	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ N
+servieren	servieren	V.PTCP;PRS	servierend	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Ziegelstein	Ziegelsteinen	N;GEN;PL	Ziegelsteine	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+entfärben	entfärben	V.PTCP;PRS	entfärbend	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+tratschen	tratschtest	V;IND;PST;2;SG	tratschtest	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ IND IND 2 2
+Takelage	Takelagen	N;GEN;PL	Takelagen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+frottieren	frottieren	V.PTCP;PST	frottiert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+verselbständigen	verselbständigenen	V;SBJV;PST;3;PL	verselbständigten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 3 PL
+Mohr	Mohres	N;ACC;PL	Mohren	1-2-3-4-5-5	_ _ _ _ PL N
+trällern	trällert	V;SBJV;PRS;1;SG	trällere	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ V
+ankündigen	ankündigt	V;IMP;2;SG	kündig an	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Abfluss	Abflussen	N;ACC;PL	Abflüsse	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+Stimme	Stimmen	N;DAT;PL	Stimmen	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+retten	retten	V;IND;PRS;3;PL	retten	1-2-3-4-5-6	_ _ _ _ _ _
+nagen	nageten	V;IND;PST;2;PL	nagtet	1-2-3-4-5-6-6	_ _ _ _ IND IND PL
+ersuchen	ersuche	V;SBJV;PRS;1;SG	ersuche	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+marschieren	marschiert	V;SBJV;PRS;3;SG	marschiere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ SBJV
+Elektronenmangel	Elektronenmangel	N;DAT;SG	Elektronenmangel	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+bräunen	bräunten	V;IND;PST;2;PL	bräuntet	1-2-3-4-5-6-7-8	_ _ _ _ _ 2 IND PL
+sezieren	sezieren	V.PTCP;PST	seziert	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Versuch	Versuches	N;NOM;PL	Versuche	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL N
+lizenzieren	lizenziert	V;IMP;2;SG	lizenzier	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+schwindeln	schwindelte	V;IND;PST;1;SG	schwindelte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+quellen	quelle	V;IND;PRS;1;SG	quelle	1-2-3-4-5-6	_ _ _ _ _ _
+sinnen	sinnen	V.PTCP;PST	gesonnen	1-2-3-4-5-6	_ _ _ _ _ _
+einordnen	einordnt	V;IMP;2;SG	ordne ein	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Schmierblatt	Schmierblatten	N;GEN;SG	Schmierblattes	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ GEN GEN
+Obstbaum	Obstbaumes	N;GEN;SG	Obstbaumes	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN SG
+werden	werdeten	V;IND;PST;2;PL	wurdet	1-2-3-4-5-6-7-7	_ _ _ _ _ IND IND PL
+Choral	Choral	N;NOM;SG	Choral	1-2-3-4-5-6	_ _ _ _ _ _
+hopsen	hopse	V;IND;PRS;1;SG	hopse	1-2-3-4-5	_ _ _ _ _
+deklamieren	deklamiert	V;SBJV;PRS;2;PL	deklamieret	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+mißhandeln	mißhandtlt	V;IND;PRS;2;PL	mißhandelt	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND _ 2
+verspielen	verspiele	V;SBJV;PRS;1;SG	verspiele	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+ausrüsten	ausrüstet	V;IMP;2;PL	rüstet aus	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ 2 2
+Elektron	Elektronen	N;ACC;PL	Elektronen	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+frappieren	frappierten	V;SBJV;PST;3;PL	frappierten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ PST PST PL
+retuschieren	retuschiert	V;IND;PRS;1;PL	retuschieren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+schiefern	schiefer	V;SBJV;PRS;3;SG	schiefere	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+identifizieren	identifizierten	V;IND;PST;1;PL	identifizierten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ IND IND PL
+Afrikaner	Afrikaner	N;GEN;SG	Afrikaners	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Glucke	Gluckes	N;GEN;SG	Glucke	1-2-3-4-5-6-7	_ _ _ _ _ _ GEN
+mineralisieren	mineralisierten	V;SBJV;PST;1;PL	mineralisierten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ PST PST PL
+Schellente	Schellenten	N;GEN;PL	Schellenten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+malen	malet	V;IMP;2;PL	malt	1-2-3-4-5	_ _ _ _ 2
+krepieren	krepiert	V;IMP;2;SG	krepier	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Geier	Geier	N;DAT;SG	Geier	1-2-3-4-5	_ _ _ _ _
+Pottwal	Pottwal	N;DAT;SG	Pottwal	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Nebensatzkonjugation	Nebensatzkonjugationen	N;ACC;PL	Nebensatzkonjugationen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-21	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+skizzieren	skizzierten	V;IND;PST;3;PL	skizzierten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ IND IND PL
+Einsamkeit	Einsamkeiten	N;ACC;PL	Einsamkeiten	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+abheben	heben ab	V;IMP;2;PL	hebt ab	3-4-5-6-7-8-1-2	_ _ _ _ _ PL _ _
+klumpen	klumpen	V;SBJV;PRS;1;PL	klumpen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Sonnabendabend	Sonnabendabenden	N;ACC;PL	Sonnabendabende	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+gestalten	stalten	V.PTCP;PRS	gestaltend	3-4-5-6-7-8-9	_ _ _ _ _ _ _
+Rotfuchs	Rotfuchs	N;NOM;SG	Rotfuchs	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+begeistern	begeisterten	V;IND;PST;1;PL	begeisterten	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ IND PL PL
+Rauchbier	Rauchbiern	N;GEN;PL	Rauchbiere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+patzen	patzen	V;SBJV;PRS;1;PL	patzen	1-2-3-4-5-6	_ _ _ _ _ _
+chargieren	chargiert	V;IND;PRS;2;PL	chargiert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+Hautfett	Hautfetten	N;GEN;PL	Hautfette	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+sprenkeln	sprenkele	V;SBJV;PRS;3;SG	sprenkele	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 3
+Essstörung	Essstörungen	N;GEN;SG	Essstörung	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ GEN GEN
+Kappa	Kappa	N;ACC;SG	Kappa	1-2-3-4-5	_ _ _ _ _
+Kurdin	Kurdinen	N;DAT;PL	Kurdinnen	1-2-3-4-5-6-7-7	_ _ _ _ _ _ PL PL
+hoppeln	hoppelte	V;IND;PST;3;SG	hoppelte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND PST
+unterschreiben	unterschreibt	V;IMP;2;PL	unterschreibt	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ 2
+bimmeln	bimmeltest	V;IND;PST;2;SG	bimmeltest	1-2-3-4-5-6-7-8-8-8	_ _ _ _ _ _ IND PST 2 2
+Kaplöwe	Kaplöwen	N;NOM;PL	Kaplöwen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+Wahlkämpfer	Wahlkämpfer	N;GEN;SG	Wahlkämpfers	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Medienwissenschaftlerin	Medienwissenschaftlerinenen	N;GEN;PL	Medienwissenschaftlerinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-23-24-23	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN _ GEN _
+Sellerie	Sellerien	N;NOM;PL	Sellerien	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+orten	ortest	V;IND;PRS;2;SG	ortest	1-2-3-4-5-6	_ _ _ _ PRS 2
+erklingen	erklingen	V.PTCP;PST	erklungen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+dribbeln	dribbelten	V;SBJV;PST;2;PL	dribbeltet	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ 2 PL PL
+Butike	Butike	N;DAT;SG	Butike	1-2-3-4-5-6	_ _ _ _ _ _
+Baumwolle	Baumwollen	N;DAT;PL	Baumwollen	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+Sorge	Sorgen	N;ACC;PL	Sorgen	1-2-3-4-5-6	_ _ _ _ _ PL
+thematisieren	thematisierte	V;SBJV;PST;2;SG	thematisiertest	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ PST 2
+schauspielern	schauspielerten	V;SBJV;PST;3;PL	schauspielerten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ PST PST PL
+anschalten	halten ansc	V;SBJV;PRS;3;SG	schalte an	5-6-7-8-9-10-11-1-2-3-4	_ _ _ _ _ _ SBJV _ _ _ _
+mahlen	mahlen	V;NFIN	mahlen	1-2-3-4-5-6	_ _ _ _ _ _
+verwerfen	verwerfteste	V;SBJV;PST;2;SG	verwürfest	1-2-3-4-5-6-7-8-9-10-10-10	_ _ _ _ _ _ _ 2 PST SG 2 PST
+Tretlager	Tretlagern	N;GEN;PL	Tretlager	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+Regierungserklärung	Regierungserklärunge	N;ACC;SG	Regierungserklärung	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+gelieren	gelierte	V;IND;PST;1;SG	gelierte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND IND
+Abnahme	Abnahmen	N;ACC;PL	Abnahmen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+zerfließen	zerfließt	V;IND;PRS;1;PL	zerfließen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+vertonen	vertonenen	V;SBJV;PST;1;PL	vertonten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PST PL
+schikanieren	schikaniert	V;IND;PRS;2;SG	schikanierst	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+Greis	Greis	N;DAT;SG	Greis	1-2-3-4-5	_ _ _ _ _
+vorstellen	vorstelltest	V;IND;PST;2;SG	stelltest vor	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ IND IND 2 2
+glorifizieren	glorifiziert	V;IMP;2;SG	glorifizier	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ 2
+besudeln	besudelten	V;SBJV;PST;1;PL	besudelten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ V PL PL
+filtern	filtere	V;SBJV;PRS;1;SG	filtere	1-2-3-4-5-6-7	_ _ _ _ _ _ SBJV
+enthüllen	enthüllet	V;IND;PST;2;SG	enthülltest	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Auszahlung	Auszahlungen	N;GEN;PL	Auszahlungen	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+sintern	sintert	V;IND;PRS;2;PL	sintert	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+Curium	Curium	N;NOM;SG	Curium	1-2-3-4-5-6	_ _ _ _ _ _
+ackern	ackere	V;SBJV;PRS;3;SG	ackere	1-2-3-4-5-6	_ _ _ _ _ SBJV
+versteigern	versteigert	V;SBJV;PRS;1;PL	versteigern	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ V
+verpflichten	verpflichtete	V;SBJV;PST;3;SG	verpflichtete	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ V PST
+Geldumlauf	Geldumlaufen	N;DAT;PL	Geldumläufen	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Dichte	Dichtes	N;GEN;SG	Dichte	1-2-3-4-5-6-7	_ _ _ _ _ _ GEN
+rivalisieren	rivalisiert	V;IND;PRS;3;SG	rivalisiert	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+Dotter	Dotter	N;GEN;SG	Dotters	1-2-3-4-5-6	_ _ _ _ _ _
+motivieren	motivierte	V;SBJV;PRS;3;PL	motivieren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ V SBJV
+flittern	flittert	V;IND;PRS;3;SG	flittert	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ IND
+klappen	klappest	V;SBJV;PRS;2;SG	klappest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ SBJV 2
+Aktionär	Aktionären	N;DAT;PL	Aktionären	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+blenden	blende	V;IND;PRS;3;SG	blendet	1-2-3-4-5-6	_ _ _ _ _ _
+Zirkonium	Zirkonium	N;DAT;SG	Zirkonium	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Schaltkreis	Schaltkreisen	N;DAT;PL	Schaltkreisen	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+Regulierung	Regulierungen	N;NOM;PL	Regulierungen	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+projizieren	projiziert	V;SBJV;PRS;2;SG	projizierest	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+Leiharbeiter	Leiharbeitern	N;DAT;PL	Leiharbeitern	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+Wähler	Wähler	N;DAT;SG	Wähler	1-2-3-4-5-6	_ _ _ _ _ _
+Strumpf	Strumpf	N;NOM;SG	Strumpf	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+ermächtigen	ermächtigen	V;SBJV;PRS;3;PL	ermächtigen	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Telefonat	Telefonaten	N;GEN;PL	Telefonate	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+rekrutieren	rekrutierte	V;SBJV;PST;1;SG	rekrutierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ PST PST
+schlagen	schlagt	V;SBJV;PRS;2;SG	schlagest	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+nähen	näheten	V;SBJV;PST;2;PL	nähtet	1-2-3-4-5-6-6	_ _ _ _ 2 2 PL
+herunterkommen	herunterkommen	V;SBJV;PST;1;PL	kämen herunter	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+jäten	jätee	V;SBJV;PST;3;SG	jätete	1-2-3-4-5	_ _ _ _ PST
+entstehen	stehen ent	V;SBJV;PRS;3;SG	entstehe	4-5-6-7-8-9-10-1-2-3	_ _ _ _ _ _ V _ _ _
+versauen	versauest	V;IND;PST;1;SG	versaute	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND IND
+überstehen	überstehtenten	V;SBJV;PST;2;PL	überständet	1-2-3-4-5-6-7-8-9-10-11-11-11-11	_ _ _ _ _ _ _ _ PST PST PL 2 PL PL
+anbringen	anbringeste	V;SBJV;PST;1;SG	brächte an	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ SG SBJV PST
+Kryptonisotop	Kryptonisotope	N;NOM;SG	Kryptonisotop	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ NOM
+temperieren	temperiert	V;IND;PRS;3;PL	temperieren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+vollenden	vollende	V;SBJV;PRS;3;SG	vollende	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+schleppen	schleppen	V;SBJV;PRS;1;PL	schleppen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Verzeichnisdienst	Verzeichnisdiensten	N;DAT;PL	Verzeichnisdiensten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N PL
+stöhnen	stöhneten	V;SBJV;PST;2;PL	stöhntet	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ 2 PL PL
+Chi	Chi	N;DAT;PL	Chis	1-2-3	_ _ _
+verlocken	verlocken	V;NFIN	verlocken	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Bitumen	Bitumen	N;GEN;PL	Bitumen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Schmaus	Schmausen	N;NOM;PL	Schmäuse	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+Gleitkomma	Gleitkommaen	N;DAT;PL	Gleitkommas	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+bessern	besserne	V;SBJV;PRS;3;PL	bessern	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+Gelege	Gelege	N;DAT;SG	Gelege	1-2-3-4-5-6	_ _ _ _ _ _
+Offenbarungseid	Offenbarungseid	N;DAT;SG	Offenbarungseid	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Bettelstab	Bettelstaben	N;ACC;PL	Bettelstäbe	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Bleierz	Bleierzen	N;DAT;PL	Bleierzn	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+Schweigen	Schweigen	N;DAT;SG	Schweigen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Ombudsmann	Ombudsmannen	N;GEN;PL	Ombudsmänner	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+prostituieren	prostituierten	V;IND;PST;3;PL	prostituierten	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ PST IND PL
+Unannehmlichkeit	Unannehmlichkeiten	N;NOM;PL	Unannehmlichkeiten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+rekrutieren	rekrutiert	V;NFIN	rekrutieren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ NFIN
+Fleischwunde	Fleischwunden	N;NOM;PL	Fleischwunden	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+Aufenthaltsort	Aufenthaltsort	N;NOM;SG	Aufenthaltsort	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Hundeführer	Hundeführer	N;ACC;SG	Hundeführer	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Taschenwörterbuch	Taschenwörterbuche	N;ACC;SG	Taschenwörterbuch	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+Flagge	Flagge	N;DAT;SG	Flagge	1-2-3-4-5-6	_ _ _ _ _ _
+translozieren	translozierte	V;IND;PST;2;SG	transloziertest	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ PST PST
+laichen	laichet	V;SBJV;PST;3;SG	laichte	1-2-3-4-5-6-7	_ _ _ _ _ _ PST
+ansiedeln	iedelte an	V;SBJV;PST;2;SG	siedeltest an	4-5-6-7-8-9-10-10-1-2	_ _ _ _ _ 2 SBJV V _ _
+Drei	Drei	N;DAT;SG	Drei	1-2-3-4	_ _ _ _
+Grube	Grubes	N;GEN;SG	Grube	1-2-3-4-5-6	_ _ _ _ _ GEN
+verwässern	verwässert	V;SBJV;PRS;3;SG	verwässere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+radfahren	radfahrten	V;IND;PRS;1;PL	fahren rad	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PL
+proben	probe	V;SBJV;PRS;3;SG	probe	1-2-3-4-5	_ _ _ _ _
+Atheist	Atheist	N;NOM;SG	Atheist	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Pariser	Pariser	N;GEN;PL	Pariser	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+beglückwünschen	beglückwünschetenten	V;SBJV;PST;2;PL	beglückwünschtet	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16-16-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ 2 PST PL 2 PST PL
+kreisen	kreiseten	V;IND;PST;2;PL	kreistet	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND PST PL
+immigrieren	immigriert	V;IND;PRS;2;PL	immigriert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+maskieren	maskierten	V;SBJV;PST;3;PL	maskierten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ PST PST PL
+Blauschimmelkäse	Blauschimmelkäse	N;ACC;SG	Blauschimmelkäse	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+zugehen	zugehen	V;SBJV;PRS;1;PL	gehen zu	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Aktienkurs	Aktienkursen	N;ACC;PL	Aktienkurse	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Auskommen	Auskommen	N;ACC;SG	Auskommen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Kartoffelchip	Kartoffelchipen	N;GEN;SG	Kartoffelchips	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ GEN GEN
+Grindwal	Grindwalen	N;NOM;PL	Grindwale	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+hydrieren	hydrierte	V;IND;PST;1;SG	hydrierte	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND IND
+zurückkehren	zurückkehrt	V;IND;PRS;3;SG	kehrt zurück	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+Roggenvollkornbrot	Roggenvollkornbroten	N;DAT;PL	Roggenvollkornbroten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Stickstoffatom	Stickstoffatomen	N;ACC;PL	Stickstoffatome	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+riffeln	riffeln	V.PTCP;PRS	riffelnd	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Medienhistorikerin	Medienhistorikerinen	N;GEN;PL	Medienhistorikerinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N PL
+Mandelbaum	Mandelbaumen	N;ACC;PL	Mandelbäume	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+reanimieren	reanimierten	V;SBJV;PST;3;PL	reanimierten	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ PST PST PL
+Phillumenist	Phillumenisten	N;DAT;PL	Phillumenisten	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Volksetymologie	Volksetymologien	N;NOM;PL	Volksetymologien	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+randalieren	randalierte	V;IND;PST;2;SG	randaliertest	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+fungieren	fungierten	V;IND;PST;2;PL	fungiertet	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PL
+Übersetzungswörterbuch	Übersetzungswörterbuche	N;GEN;PL	Übersetzungswörterbücher	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN
+Schornsteinfeger	Schornsteinfegern	N;GEN;PL	Schornsteinfeger	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+klonen	klonteste	V;IND;PST;2;SG	klontest	1-2-3-4-5-6-7-7-7	_ _ _ _ 2 IND SG 2 PST
+appliziren	appliziren	V;SBJV;PRS;1;PL	appliziren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+braten	bratet	V;IND;PRS;2;SG	brätst	1-2-3-4-5-6	_ _ _ _ _ 2
+Appellmacher	Appellmachern	N;GEN;PL	Appellmacher	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ N
+ramponieren	ramponiert	V;IND;PRS;3;SG	ramponiert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+Zwielicht	Zwielicht	N;NOM;SG	Zwielicht	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Zeitscheibe	Zeitscheiben	N;NOM;PL	Zeitscheiben	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ PL
+schmusen	schmuste	V;IND;PST;3;SG	schmuste	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND IND
+steigern	steigert	V;SBJV;PST;2;SG	steigertest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Zinnmineral	Zinnmineral	N;GEN;SG	Zinnminerals	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+kabeln	kabeleste	V;SBJV;PST;1;SG	kabelte	1-2-3-4-5-6-7-7-7	_ _ _ _ _ SBJV V V PST
+Geschäftsführer	Geschäftsführer	N;DAT;SG	Geschäftsführer	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Atelier	Atelier	N;DAT;SG	Atelier	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+klären	kläret	V;SBJV;PST;1;SG	klärte	1-2-3-4-5-6	_ _ _ _ _ V
+Laufsteg	Laufstegen	N;GEN;PL	Laufstege	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN PL
+hecken	hecket	V;SBJV;PST;2;SG	hecktest	1-2-3-4-5-6	_ _ _ _ _ 2
+zürnen	zürne	V;IND;PRS;1;SG	zürne	1-2-3-4-5	_ _ _ _ _
+verwundern	verwundert	V;IND;PST;2;SG	verwundertest	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+Durchsuchungsbefehl	Durchsuchungsbefehlen	N;DAT;PL	Durchsuchungsbefehlen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+stapfen	stapfen	V.PTCP;PRS	stapfend	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Stadtgebiet	Stadtgebiet	N;GEN;SG	Stadtgebietes	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Stickstoffatom	Stickstoffatomen	N;GEN;PL	Stickstoffatome	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ GEN PL
+verzeichnen	verzeichnet	V;SBJV;PST;3;SG	verzeichnete	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ PST PST
+frittieren	frittierten	V;SBJV;PST;1;PL	frittierten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ PST PST PL
+Kirchengemeinde	Kirchengemeinden	N;NOM;PL	Kirchengemeinden	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+Schwabe	Schwaben	N;GEN;PL	Schwaben	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+schmerzen	schmerzest	V;SBJV;PST;1;SG	schmerzte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ V V
+Fluoritkristall	Fluoritkristallen	N;ACC;PL	Fluoritkristalle	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Vorschub	Vorschub	N;NOM;SG	Vorschub	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+abonnieren	abonniertt ab	V;SBJV;PRS;2;SG	abonnierest	1-2-3-4-5-6-7-8-9-10-11-1-2	_ _ _ _ _ _ _ _ 2 2 SBJV _ _
+sedieren	sedierten	V;SBJV;PRS;2;PL	sedieret	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ 2 2 PL
+ausscheiden	heiden ausscheide	V;IND;PRS;3;PL	scheiden aus	6-7-8-9-10-11-12-1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ IND _ _ _ _ _ _ _ _ _ _
+Xylophon	Xylophones	N;GEN;SG	Xylophons	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN SG
+Fettsack	Fettsacken	N;NOM;PL	Fettsäcke	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Enttarnung	Enttarnung	N;NOM;SG	Enttarnung	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+scheißen	scheißeten	V;IND;PST;3;PL	schissen	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ IND PL PL
+versprechen	versprecht	V;SBJV;PRS;1;SG	verspreche	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+übereinstimmen	übereinstimmet	V;IMP;2;PL	stimmt überein	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ 2
+Posaunenchor	Posaunenchoren	N;DAT;PL	Posaunenchören	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+lügen	lügen	V;SBJV;PRS;1;PL	lügen	1-2-3-4-5	_ _ _ _ _
+diktieren	diktierten	V;IND;PST;2;PL	diktiertet	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PL
+brausen	brausteste	V;SBJV;PST;2;SG	braustest	1-2-3-4-5-6-7-8-8-8	_ _ _ _ _ 2 2 SG 2 PST
+abstrahieren	strahierte	V;IND;PST;3;SG	abstrahierte	3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ PST IND
+Muttersöhnchen	Muttersöhnchen	N;ACC;SG	Muttersöhnchen	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+zusammenfassen	zusammentasseten	V;IND;PST;2;PL	fasstet zusammen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ 2 _ _ _ _ 2 PST PL
+zurückweisen	zurückweist	V;IND;PRS;2;SG	weist zurück	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+polarisieren	polarisiert	V;SBJV;PRS;3;SG	polarisiere	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ SBJV
+Homodimer	Homodimer	N;ACC;SG	Homodimer	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Verehrung	Verehrungen	N;NOM;PL	Verehrungen	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+NOR-Gatter	Gatterten	N;GEN;SG	NOR-Gatters	5-6-7-8-9-10-11-11-11	_ _ _ _ _ _ SG GEN GEN
+faschieren	faschierte	V;SBJV;PST;3;SG	faschierte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ PST PST
+Treuhänder	Treuhänder	N;ACC;SG	Treuhänder	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+vorbereiten	vorbertiteten	V;IND;PST;2;PL	bereitetet vor	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ PST _ _ _ 2 PST PL
+schämen	schämen	V;IND;PRS;3;PL	schämen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Panter	Panter	N;DAT;PL	Pantern	1-2-3-4-5-6	_ _ _ _ _ _
+Amt	Amte	N;GEN;PL	Ämter	1-2-3-4	_ _ _ GEN
+Steppe	Steppes	N;GEN;SG	Steppe	1-2-3-4-5-6-7	_ _ _ _ _ _ GEN
+schlichten	schlicht	V;SBJV;PRS;2;SG	schlichtest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+zuhören	zuhörtes	V;SBJV;PST;1;SG	hörte zu	1-2-3-4-5-6-7-8	_ _ _ _ _ V V SG
+induzieren	induzierte	V;IND;PST;1;SG	induzierte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ IND PST
+Taschenwörterbuch	Taschenwörterbuche	N;NOM;SG	Taschenwörterbuch	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+Zurückhaltung	Zurückhaltungen	N;DAT;PL	Zurückhaltungen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Lebewohl	Lebewohlen	N;GEN;PL	Lebewohls	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Stab	Stab	N;NOM;SG	Stab	1-2-3-4	_ _ _ _
+Appartement	Appartement	N;NOM;PL	Appartements	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+herabsetzen	herabb	V;IND;PST;2;PL	setztet herab	1-2-3-4-5-5	_ _ _ _ _ _
+Unterseeboot	Unterseebooten	N;GEN;PL	Unterseeboote	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+reproduzieren	reproduziert	V;SBJV;PRS;1;SG	reproduziere	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ SBJV
+Verwurzelung	Verwurzelung	N;DAT;SG	Verwurzelung	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Hütchen	Hütchen	N;DAT;SG	Hütchen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Maut	Maute	N;ACC;PL	Mauten	1-2-3-4-5	_ _ _ _ PL
+inszenieren	inszenierte	V;SBJV;PRS;3;PL	inszenieren	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ V SBJV
+verwundern	verwundert	V;IND;PRS;3;PL	verwundern	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+beschwören	beschwört	V;IND;PRS;3;SG	beschwört	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+Anker	Anker	N;NOM;PL	Anker	1-2-3-4-5	_ _ _ _ _
+Schwefelhalogenid	Schwefelhalogeniden	N;ACC;PL	Schwefelhalogenide	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Ångström	Ångströmes	N;GEN;SG	Ångströms	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN SG
+lauten	lauteten	V;SBJV;PST;1;PL	lauteten	1-2-3-4-5-6-7-7	_ _ _ _ _ V PST
+kabbeln	kabbelten	V;IND;PST;3;PL	kabbelten	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND IND PL
+Reh	Reh	N;GEN;SG	Rehes	1-2-3	_ _ _
+benützen	benützen	V;IND;PST;1;PL	benützten	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Heißluftballon	Heißluftballonen	N;DAT;PL	Heißluftballons	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Ohrenrobbe	Ohrenrobben	N;ACC;PL	Ohrenrobben	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Fichtelit	Fichteliten	N;NOM;PL	Fichtelite	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Plasmaspiegel	Plasmaspiegeln	N;NOM;PL	Plasmaspiegel	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL
+Bäckchen	Bäckchen	N;DAT;SG	Bäckchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+fällen	fällete	V;SBJV;PST;3;SG	fällte	1-2-3-4-5-6-7	_ _ _ _ _ V PST
+Währungskürzel	Währungskürzeln	N;ACC;PL	Währungskürzel	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+Golfspielerin	Golfspielerin	N;DAT;SG	Golfspielerin	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+kämmen	kämmet	V;SBJV;PRS;2;PL	kämmet	1-2-3-4-5-6	_ _ _ _ _ 2
+Einfang	Einfangen	N;GEN;PL	Einfänge	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+ejakulieren	ejakuliert	V;SBJV;PRS;2;SG	ejakulierest	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ 2
+Jongleurin	Jongleurin	N;DAT;SG	Jongleurin	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Denunziant	Denunziant	N;NOM;SG	Denunziant	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+reizen	reizet	V;SBJV;PST;2;SG	reiztest	1-2-3-4-5-6	_ _ _ _ _ 2
+Orchidee	Orchideen	N;GEN;PL	Orchideen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+spüren	spüren	V;SBJV;PRS;1;SG	spüre	1-2-3-4-5-6	_ _ _ _ _ _
+kitzeln	kitzelte	V;IND;PRS;3;PL	kitzeln	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND PL
+platzen	platzet	V;SBJV;PRS;2;PL	platzet	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+Berber	Berber	N;ACC;PL	Berber	1-2-3-4-5-6	_ _ _ _ _ _
+steuern	steuert	V;IND;PST;2;SG	steuertest	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+krallen	krallet	V;SBJV;PRS;3;PL	krallen	1-2-3-4-5-6-7	_ _ _ _ _ _ V
+Sog	Sog	N;DAT;SG	Sog	1-2-3	_ _ _
+Leder	Leder	N;GEN;PL	Leder	1-2-3-4-5	_ _ _ _ _
+Pfingstrose	Pfingstrosen	N;DAT;PL	Pfingstrosen	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ PL
+erkranken	erkrankte	V;IMP;2;PL	erkrankt	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ 2 PL
+verbeugen	verbeugteste	V;SBJV;PST;2;SG	verbeugtest	1-2-3-4-5-6-7-8-9-10-10-10	_ _ _ _ _ _ _ 2 PST SG 2 PST
+Bayer	Bayer	N;DAT;SG	Bayer	1-2-3-4-5	_ _ _ _ _
+glupschen	glupschte	V;IND;PST;3;SG	glupschte	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND IND
+Trage	Trage	N;NOM;PL	Tragen	1-2-3-4-5	_ _ _ _ _
+Hauptsache	Hauptsache	N;DAT;SG	Hauptsache	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+flüchten	flüchteste	V;IND;PST;1;SG	flüchtete	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ 1 IND PST
+Gewürzgurke	Gewürzgurke	N;NOM;SG	Gewürzgurke	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+klären	klären	V.PTCP;PST	geklärt	1-2-3-4-5-6	_ _ _ _ _ _
+ausdrücken	ausdrücket	V;SBJV;PST;3;SG	drückte aus	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+Spinquantenzahl	Spinquantenzahlen	N;DAT;PL	Spinquantenzahlen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+soufflieren	souffliert	V;SBJV;PRS;1;SG	souffliere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+Austenit	Austenites	N;GEN;SG	Austenits	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN GEN
+schulen	schulet	V;IND;PST;3;SG	schulte	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+dinieren	dinierten	V;SBJV;PST;1;SG	dinierte	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ PST PST PST
+aufgeben	aufgebte	V;SBJV;PST;1;SG	gäbe auf	1-2-3-4-5-6-7-8	_ _ _ _ _ _ SBJV PST
+beichten	beichtenen	V;SBJV;PST;3;PL	beichteten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Landschaft	Landschaften	N;GEN;PL	Landschaften	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Viertel	Viertel	N;NOM;SG	Viertel	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+zusammenfassen	zusammenfassen	V;IND;PST;1;PL	fassten zusammen	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+stottern	stottert	V;IND;PRS;3;SG	stottert	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ IND
+Requirierung	Requirierungen	N;ACC;PL	Requirierungen	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+Steinmetzin	Steinmetzinen	N;GEN;SG	Steinmetzin	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ GEN GEN
+Wasserwanze	Wasserwanze	N;NOM;SG	Wasserwanze	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+immigrieren	immigrierte	V;IND;PST;1;SG	immigrierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+Lanthanoid	Lanthanoiden	N;GEN;SG	Lanthanoids	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ GEN GEN
+altern	alterten	V;SBJV;PST;1;PL	alterten	1-2-3-4-5-6-7-7	_ _ _ _ _ V PST PL
+andeuten	andeuten	V;IND;PRS;1;PL	deuten an	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Massenunterschied	Massenunterschieden	N;GEN;PL	Massenunterschiede	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N PL
+Amethyst	Amethystes	N;GEN;SG	Amethysts	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN SG
+Brise	Brisen	N;GEN;PL	Brisen	1-2-3-4-5-6	_ _ _ _ _ PL
+menstruieren	menstruieren	V.PTCP;PRS	menstruierend	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Zinkblende	Zinkblenden	N;DAT;PL	Zinkblenden	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Kampfspiel	Kampfspiel	N;ACC;SG	Kampfspiel	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+ausmerzen	smerzen	V.PTCP;PRS	ausmerzend	3-4-5-6-7-8-9	_ _ _ _ _ _ _
+Blitzlichtpulver	Blitzlichtpulver	N;ACC;SG	Blitzlichtpulver	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Vermenschlichung	Vermenschlichungen	N;GEN;PL	Vermenschlichungen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Geheimdienst	Geheimdienst	N;ACC;SG	Geheimdienst	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+auf den Keks gehen	auf den Keks geht	V;IMP;2;SG	geh auf den Keks	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 2
+wurschteln	wurschtelt	V;IND;PRS;1;PL	wurschteln	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+beleidigen	beleidigen	V.PTCP;PST	beleidigt	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+wegtolerieren	wegtoleriert	V;IND;PRS;2;PL	toleriert weg	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ IND
+Rezeptur	Rezeptur	N;NOM;SG	Rezeptur	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Abenteuerin	Abenteuerin	N;DAT;SG	Abenteuerin	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Rotkopf	Rotkopfen	N;DAT;PL	Rotköpfen	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+hecken	hecken	V.PTCP;PRS	heckend	1-2-3-4-5-6	_ _ _ _ _ _
+Frettchen	Frettchen	N;DAT;SG	Frettchen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Musterung	Musterung	N;ACC;SG	Musterung	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+beweisen	beweiseten	V;IND;PST;2;PL	bewiest	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ IND PL PL
+Bezugspunkt	Bezugspunkten	N;DAT;PL	Bezugspunkten	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+picheln	pichelt	V;NFIN	picheln	1-2-3-4-5-6-7	_ _ _ _ _ _ NFIN
+ausstrecken	strecket aus	V;SBJV;PRS;2;PL	strecket aus	4-5-6-7-8-9-10-11-12-1-2-3	_ _ _ _ _ _ _ 2 PRS _ _ _
+braten	braten	V;SBJV;PRS;3;SG	brate	1-2-3-4-5-6	_ _ _ _ _ _
+Seeotter	Seeotter	N;NOM;PL	Seeotter	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+abbremsen	abbremsten	V;IND;PST;3;SG	bremste ab	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PST
+Schwarzmasken-Ameisenwürger	Schwarzmasken-Ameisenwürgererer	N;NOM;PL	Schwarzmasken-Ameisenwürger	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-26-27-26-27	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Tapetenfarbe	Tapetenfarbe	N;DAT;SG	Tapetenfarbe	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Aerosol	Aerosol	N;DAT;SG	Aerosol	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Vanadocen	Vanadocen	N;DAT;SG	Vanadocen	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+generieren	generierten	V;IND;PST;3;PL	generierten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ IND IND PL
+boomen	boomen	V.PTCP;PRS	boomend	1-2-3-4-5-6	_ _ _ _ _ _
+Diode	Diode	N;ACC;SG	Diode	1-2-3-4-5	_ _ _ _ _
+torpedieren	torpediert	V;IND;PRS;3;SG	torpediert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+camouflieren	camouflieren	V.PTCP;PRS	camouflierend	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+enthüllen	enthüllest	V;IND;PST;1;SG	enthüllte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ SG IND
+lähmen	lähmet	V;IMP;2;PL	lähmt	1-2-3-4-5-6	_ _ _ _ _ 2
+Nigerianer	Nigerianern	N;GEN;PL	Nigerianer	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Moosbeere	Moosbeeren	N;DAT;PL	Moosbeeren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+bemuttern	bemutterten	V;IND;PST;2;PL	bemuttertet	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ IND PL PL
+zappeln	zappelt	V;SBJV;PRS;2;SG	zappelest	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+zersetzen	setzenenten	V;IND;PST;3;PL	zersetzten	4-5-6-7-8-9-10-10-10-10-10	_ _ _ _ _ _ PST PL IND PL PL
+bejahen	bejahen	V;IND;PRS;3;PL	bejahen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Schauer	Schauer	N;GEN;PL	Schauer	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+hampeln	hampelt	V;IND;PRS;2;SG	hampelst	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+Briefbeschwerer	Briefbeschwerer	N;GEN;SG	Briefbeschwerers	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+kämmen	kämmen	V;NFIN	kämmen	1-2-3-4-5-6	_ _ _ _ _ _
+Ersttäter	Ersttäter	N;NOM;SG	Ersttäter	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Übergangsmetalloxid	Übergangsmetalloxide	N;NOM;SG	Übergangsmetalloxid	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+Kriminalroman	Kriminalroman	N;NOM;SG	Kriminalroman	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+betonen	betonet	V;IND;PRS;2;PL	betont	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+entrichten	entrichten	V;NFIN	entrichten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Rhetorik	Rhetoriken	N;ACC;PL	Rhetoriken	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Schottin	Schottin	N;NOM;SG	Schottin	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Treuhänder	Treuhänder	N;GEN;SG	Treuhänders	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Code	Code	N;DAT;PL	Codes	1-2-3-4	_ _ _ _
+strullern	strullerten	V;SBJV;PST;1;PL	strullerten	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ PST PL PL
+outen	outeten	V;IND;PST;1;PL	outeten	1-2-3-4-5-6-6	_ _ _ _ IND IND PL
+Neffe	Neffe	N;DAT;SG	Neffen	1-2-3-4-5	_ _ _ _ _
+ermächtigen	ermächtigte	V;IND;PRS;3;SG	ermächtigt	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND 3
+Agglomeration	Agglomeration	N;DAT;SG	Agglomeration	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Erbse	Erbsen	N;GEN;PL	Erbsen	1-2-3-4-5-6	_ _ _ _ _ PL
+hinwollen	hinwollen	V.PTCP;PRS	hinwollend	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Gotteshaus	Gotteshaus	N;ACC;SG	Gotteshaus	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+deklinieren	deklinierte	V;SBJV;PRS;2;PL	deklinieret	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ 2 PL
+Abdruck	Abdrucken	N;ACC;PL	Abdrücke	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ PL PL
+Sauerstoffanteil	Sauerstoffanteilen	N;NOM;PL	Sauerstoffanteile	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Arsenmonosulfid	Arsenmonosulfid	N;DAT;SG	Arsenmonosulfid	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ausweichen	weiche	V;IND;PRS;3;SG	weicht aus	4-5-6-7-8-9	_ _ _ _ _ _
+Huso	Husoe	N;NOM;PL	Husos	1-2-3-4-5	_ _ _ _ PL
+plazieren	plaziert	V;IND;PRS;1;SG	plaziere	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ IND
+Fichtenrüsselkäfer	Fichtenrüsselkäfern	N;NOM;PL	Fichtenrüsselkäfer	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+Erdoberfläche	Erdoberfläche	N;ACC;SG	Erdoberfläche	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Metzgerei	Metzgereinen	N;GEN;PL	Metzgereien	1-2-3-4-5-6-7-8-9-10-10-10	_ _ _ _ _ _ _ _ _ PL GEN PL
+klimatisieren	klimatisierten	V;IND;PRS;1;PL	klimatisieren	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ IND IND PL
+dekompilieren	dekompilierte	V;IND;PST;3;SG	dekompilierte	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ PST IND
+Dinukleotid	Dinukleotiden	N;NOM;PL	Dinukleotide	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+robben	robbeten	V;IND;PST;3;PL	robbten	1-2-3-4-5-6-7-7	_ _ _ _ _ IND IND PL
+tätigen	tätigete	V;SBJV;PST;3;SG	tätigte	1-2-3-4-5-6-7-8	_ _ _ _ _ _ SBJV PST
+Jungfernflug	Jungfernflugen	N;DAT;PL	Jungfernflügen	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Locked-in-Syndrom	Locked-in-Syndrome	N;DAT;SG	Locked-in-Syndrom	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N
+schlüpfen	schlüpfen	V;IND;PST;1;PL	schlüpften	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Lustspiel	Lustspieln	N;NOM;PL	Lustspiele	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+Zirkon	Zirkone	N;NOM;PL	Zirkone	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+Föhre	Föhren	N;GEN;PL	Föhren	1-2-3-4-5-6	_ _ _ _ _ PL
+Schwefeloxid	Schwefeloxiden	N;NOM;PL	Schwefeloxide	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Softwareentwicklerin	Softwareentwicklerin	N;DAT;SG	Softwareentwicklerin	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Arsan	Arsan	N;ACC;SG	Arsan	1-2-3-4-5	_ _ _ _ _
+Anapäst	Anapäst	N;ACC;SG	Anapäst	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Bahnübergang	Bahnübergangen	N;GEN;PL	Bahnübergänge	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+kämmen	kämme	V;IND;PRS;1;SG	kämme	1-2-3-4-5	_ _ _ _ _
+Befüllung	Befüllung	N;ACC;SG	Befüllung	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+zelebrieren	zelebriert	V;IND;PRS;3;PL	zelebrieren	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+richten	richtet	V;IND;PRS;2;PL	richtet	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+Nulltoleranz	Nulltoleranz	N;DAT;SG	Nulltoleranz	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+schottern	schottere	V;SBJV;PRS;3;SG	schottere	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 3
+untergehen	untergehen	V.PTCP;PRS	untergehend	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+alarmieren	alarmierte	V;IND;PST;2;SG	alarmiertest	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ IND PST
+Flussbarsch	Flussbarsch	N;DAT;SG	Flussbarsch	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Fladen	Fladen	N;DAT;SG	Fladen	1-2-3-4-5-6	_ _ _ _ _ _
+komponieren	komponierten	V;IND;PST;2;PL	komponiertet	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ IND PST PL
+Oktett	Oktett	N;NOM;SG	Oktett	1-2-3-4-5-6	_ _ _ _ _ _
+Pendler	Pendlernen	N;GEN;PL	Pendler	1-2-3-4-5-6-7-8-8-8	_ _ _ _ _ _ _ N GEN PL
+Feige	Feige	N;ACC;PL	Feigen	1-2-3-4-5	_ _ _ _ _
+verheimlichen	verheimlichen	V;SBJV;PRS;1;PL	verheimlichen	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Wasserbad	Wasserbad	N;NOM;SG	Wasserbad	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Teilchen	Teilchen	N;NOM;SG	Teilchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+toppen	toppen	V.PTCP;PRS	toppend	1-2-3-4-5-6	_ _ _ _ _ _
+Strohhalm	Strohhalmen	N;NOM;PL	Strohhalme	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Bauherr	Bauherr	N;ACC;PL	Bauherren	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+dissoziieren	dissoziiert	V;SBJV;PRS;2;SG	dissoziierest	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ 2
+überfischen	überfischtenten	V;IND;PST;2;PL	überfischtet	1-2-3-4-5-6-7-8-9-10-11-12-12-12-12	_ _ _ _ _ _ _ _ _ IND IND PL 2 PST PL
+vollenden	vollendte	V;IND;PST;1;SG	vollendete	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND IND
+Wohnheim	Wohnheim	N;DAT;SG	Wohnheim	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Nummernschild	Nummernschild	N;NOM;SG	Nummernschild	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Endometrium	Endometriumen	N;ACC;PL	Endometrien	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+streichen	streichtest	V;IMP;2;PL	streicht	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ 2 IMP 2 2
+Apfel	Apfel	N;DAT;SG	Apfel	1-2-3-4-5	_ _ _ _ _
+Traktorist	Traktorist	N;ACC;SG	Traktoristen	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+tauen	tauete	V;SBJV;PST;1;SG	taute	1-2-3-4-5-6	_ _ _ _ V PST
+plagiieren	plagiiert	V;IND;PRS;3;SG	plagiiert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+heiraten	heirate	V;SBJV;PRS;3;SG	heirate	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Köcher	Köcher	N;GEN;PL	Köcher	1-2-3-4-5-6	_ _ _ _ _ _
+rasen	rasetenes	V;SBJV;PST;3;PL	rasten	1-2-3-4-5-6-6-6-6	_ _ _ _ V PST PL PST V
+Katatonie	Katatonie	N;ACC;SG	Katatonie	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+dokumentieren	dokumentierte	V;IND;PST;2;SG	dokumentiertest	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ PST PST
+Schnalle	Schnalle	N;NOM;SG	Schnalle	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Halbleiter	Halbleiter	N;DAT;SG	Halbleiter	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Erdalkalimetall	Erdalkalimetallen	N;DAT;PL	Erdalkalimetallen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+kichern	kicher	V;IND;PRS;1;SG	kichre	1-2-3-4-5-6	_ _ _ _ _ _
+Gebrauchsgegenstand	Gebrauchsgegenstanden	N;GEN;PL	Gebrauchsgegenstände	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-20	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Ölteppich	Ölteppichen	N;ACC;PL	Ölteppiche	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Kulturgeschichte	Kulturgeschichte	N;ACC;SG	Kulturgeschichte	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Merkel-Raute	Merkel-Rauten	N;GEN;PL	Merkel-Rauten	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+Vampir	Vampire	N;ACC;PL	Vampire	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+Faun	Faun	N;NOM;SG	Faun	1-2-3-4	_ _ _ _
+Raffinat	Raffinaten	N;ACC;PL	Raffinate	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Immergrün	Immergrünen	N;DAT;PL	Immergrünen	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Surinamerin	Surinamerinen	N;DAT;PL	Surinamerinnen	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+wehen	wehetestest	V;SBJV;PST;2;SG	wehtest	1-2-3-4-5-6-6-6-6-6-6	_ _ _ _ 2 2 V 2 2 2 2
+ausschalten	halten ausschalten	V.PTCP;PST	ausgeschaltet	6-7-8-9-10-11-12-1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ PST _ _ _ _ _ _ _ _ _ _ _
+duckmäusern	duckmäusert	V;IND;PRS;3;SG	duckmäusert	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+zugeben	zugebte	V;IND;PST;2;SG	gabst zu	1-2-3-4-5-6-7	_ _ _ _ _ 2 PST
+Täter	Täteres	N;ACC;PL	Täter	1-2-3-4-5-6-6	_ _ _ _ _ PL N
+Endokrinologe	Endokrinologen	N;NOM;PL	Endokrinologen	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL
+gefrieren	gefriert	V;SBJV;PRS;2;SG	gefrierest	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+Äquator	Äquatores	N;GEN;SG	Äquators	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ GEN GEN
+atmen	atmest	V;IND;PRS;2;SG	atmest	1-2-3-4-5-6	_ _ _ _ PRS 2
+erkennen	erkennen	V;SBJV;PRS;1;PL	erkennen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Anbetung	Anbetung	N;NOM;SG	Anbetung	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Teller	Teller	N;DAT;PL	Tellern	1-2-3-4-5-6	_ _ _ _ _ _
+kauen	kauetenes	V;SBJV;PST;3;PL	kauten	1-2-3-4-5-6-6-6-6	_ _ _ _ V PST PL PST V
+schneiden	schneidet	V;IND;PST;3;SG	schnitt	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+Freiherr	Freiherr	N;NOM;SG	Freiherr	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Beugung	Beugunges	N;GEN;SG	Beugung	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ _ GEN GEN
+Auswahl	Auswahl	N;NOM;SG	Auswahl	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Amboss	Ambosses	N;GEN;SG	Ambosses	1-2-3-4-5-6-7-7	_ _ _ _ _ _ GEN GEN
+verzählen	verzählet	V;IND;PRS;2;PL	verzählt	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ 2
+Schwebfliege	Schwebfliegen	N;GEN;PL	Schwebfliegen	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+annektieren	annektierten	V;IND;PRS;1;PL	annektieren	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ IND IND PL
+verfilmen	verfilmen	V;SBJV;PST;1;PL	verfilmten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Opa	Opa	N;NOM;SG	Opa	1-2-3	_ _ _
+diagnostizieren	diagnostizierte	V;SBJV;PST;1;SG	diagnostizierte	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ PST PST
+schockieren	schockieren	V.PTCP;PRS	schockierend	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Riechstoff	Riechstoffen	N;NOM;PL	Riechstoffe	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ PL PL
+Aufrührer	Aufrührern	N;DAT;PL	Aufrührern	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+Zöllner	Zöllner	N;ACC;SG	Zöllner	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+reißen	reißen	V;NFIN	reißen	1-2-3-4-5-6	_ _ _ _ _ _
+Sammelbegriff	Sammelbegriff	N;DAT;SG	Sammelbegriff	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ _
+Unterschenkel	Unterschenkeln	N;ACC;PL	Unterschenkel	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL
+plantschen	plantscheste	V;SBJV;PST;1;SG	plantschte	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ 1 V PST
+Felsenbirne	Felsenbirnen	N;DAT;PL	Felsenbirnen	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ PL
+trösten	trösteten	V;IND;PST;1;PL	trösteten	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND PL PL
+Beeilung	Beeilungen	N;NOM;PL	Beeilungen	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Obszönität	Obszönität	N;ACC;SG	Obszönität	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+dominieren	dominierte	V;IND;PST;1;SG	dominierte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ IND PST
+Bierchen	Bierchen	N;NOM;PL	Bierchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Brandteigkrapferl	Brandteigkrapferln	N;DAT;PL	Brandteigkrapferln	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ DAT
+handeln	handelt	V;IND;PRS;2;SG	handelst	1-2-3-4-5-6-7	_ _ _ _ _ _ IND
+anzeigen	anzeigten	V;SBJV;PST;2;SG	zeigtest an	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ 2 2 PST
+Calciummangel	Calciummangelnen	N;GEN;PL	Calciummängel	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ N GEN PL
+verknittern	verknittert	V;IMP;2;PL	verknittert	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ 2
+generalisieren	generalisierte	V;IND;PRS;3;PL	generalisieren	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ IND IND
+schirmen	schirmeten	V;SBJV;PST;2;PL	schirmtet	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ 2 PST PL
+hamstern	hamsterten	V;SBJV;PST;3;PL	hamsterten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ V PL PL
+Schwarte	Schwarten	N;GEN;PL	Schwarten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ PL
+Motorboot	Motorbooten	N;NOM;PL	Motorboote	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+zelebrieren	zelebriert	V;SBJV;PRS;3;SG	zelebriere	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ V
+stoppen	stoppen	V;SBJV;PRS;1;PL	stoppen	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+klumpen	klumpes	V;IMP;2;SG	klump	1-2-3-4-5-6-7	_ _ _ _ _ _ IMP
+Polizeisprecher	Polizeisprechern	N;ACC;PL	Polizeisprecher	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL
+kollern	kollern	V.PTCP;PST	gekollert	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Besitzer	Besitzer	N;ACC;SG	Besitzer	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+revanchieren	revanchiert	V;IMP;2;PL	revanchiert	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ 2
+Kliff	Kliff	N;DAT;SG	Kliff	1-2-3-4-5	_ _ _ _ _
+abschlagen	lagen absc	V;IND;PRS;3;SG	schlägt ab	6-7-8-9-10-11-1-2-3-4	_ _ _ _ _ IND _ _ _ _
+Sektor	Sektores	N;GEN;SG	Sektors	1-2-3-4-5-6-7-7	_ _ _ _ _ _ GEN GEN
+Acetat	Acetate	N;ACC;PL	Acetate	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+Archäologe	Archäologen	N;GEN;SG	Archäologen	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ GEN
+beziffern	beziffert	V;SBJV;PRS;3;PL	beziffern	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ V
+Wulfenit	Wulfeniten	N;NOM;PL	Wulfenite	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ PL PL
+Altweibersommer	Altweibersommer	N;ACC;SG	Altweibersommer	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+pflanzen	pflanzt	V;IND;PRS;2;SG	pflanzt	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+Klan	Klan	N;DAT;SG	Klan	1-2-3-4	_ _ _ _
+Hopfen	Hopfen	N;NOM;SG	Hopfen	1-2-3-4-5-6	_ _ _ _ _ _
+Fleischer	Fleischer	N;NOM;SG	Fleischer	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+bieren	bieree	V;SBJV;PST;3;SG	bierte	1-2-3-4-5-6	_ _ _ _ _ PST
+Schulbuch	Schulbuchen	N;NOM;PL	Schulbücher	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+ablaufen	laufen	V;IND;PRS;1;PL	laufen ab	3-4-5-6-7-8	_ _ _ _ _ _
+Spielhalle	Spielhalle	N;DAT;SG	Spielhalle	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+kramen	kramen	V;SBJV;PRS;1;PL	kramen	1-2-3-4-5-6	_ _ _ _ _ _
+menstruieren	menstruiert	V;SBJV;PRS;2;SG	menstruierest	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ 2
+Speerwerfer	Speerwerfer	N;ACC;SG	Speerwerfer	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+hinlegen	hinlegte	V;IND;PST;3;SG	legte hin	1-2-3-4-5-6-7-8	_ _ _ _ _ _ IND IND
+Hausschaf	Hausschaf	N;DAT;SG	Hausschaf	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Lungenproblem	Lungenproblemn	N;NOM;PL	Lungenprobleme	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL
+beschlagnahmen	beschlagnahmen	V;IND;PST;1;PL	beschlagnahmten	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Sternwind	Sternwinden	N;DAT;PL	Sternwinden	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+schelten	schelten	V;SBJV;PRS;1;PL	schelten	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Pastell	Pastell	N;DAT;SG	Pastell	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+entfesseln	entfesselten	V;SBJV;PST;1;PL	entfesselten	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ PST PL PL
+Pfanne	Pfanne	N;DAT;SG	Pfanne	1-2-3-4-5-6	_ _ _ _ _ _
+verklagen	verklagten	V;SBJV;PRS;2;PL	verklaget	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ 2 2 PL
+Halluzinogen	Halluzinogen	N;GEN;SG	Halluzinogens	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+misstrauen	misstrauen	V;SBJV;PST;1;PL	misstrauten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Druckmittel	Druckmittel	N;ACC;SG	Druckmittel	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Kajüte	Kajütes	N;GEN;SG	Kajüte	1-2-3-4-5-6-7	_ _ _ _ _ _ GEN
+reanimieren	reanimiert	V;IND;PRS;2;PL	reanimiert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+stürmen	stürmet	V;IND;PRS;2;SG	stürmst	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+zwischen den Zeilen lesen	zwischen dn Zeilen	V;IND;PRS;2;SG	liest zwischen den Zeilen	1-2-3-4-5-6-7-8-9-10-12-13-14-15-16-17-18-19	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Distel	Distel	N;NOM;SG	Distel	1-2-3-4-5-6	_ _ _ _ _ _
+Blinker	Blinker	N;ACC;PL	Blinker	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+dümpeln	dümpelt	V;IMP;2;PL	dümpelt	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+Joint	Jointe	N;DAT;PL	Joints	1-2-3-4-5-6	_ _ _ _ _ PL
+beleidigen	beleidigten	V;IMP;2;PL	beleidigt	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ 2 2 PL
+Giftschrank	Giftschrank	N;NOM;SG	Giftschrank	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Verlauf	Verlauf	N;ACC;SG	Verlauf	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Desaster	Desaster	N;NOM;PL	Desaster	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+weißsagen	weißsagt	V;IMP;2;SG	weißsag	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ 2
+husten	husteten	V;IND;PST;2;PL	hustetet	1-2-3-4-5-6-7-7	_ _ _ _ _ IND 2 PL
+Tausendstel	Tausendstel	N;GEN;SG	Tausendstels	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Schmelzbad	Schmelzbaden	N;GEN;SG	Schmelzbades	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ _ GEN GEN
+Postkarte	Postkartes	N;GEN;SG	Postkarte	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ SG
+Unvernunft	Unvernunft	N;NOM;SG	Unvernunft	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Ausstrahlung	Ausstrahlung	N;DAT;SG	Ausstrahlung	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+Apoplexie	Apoplexien	N;DAT;PL	Apoplexien	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ PL
+bessern	bessern	V;SBJV;PRS;1;PL	bessern	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+wurzeln	wurzelt	V;IMP;2;PL	wurzelt	1-2-3-4-5-6-7	_ _ _ _ _ _ 2
+prägen	präget	V;SBJV;PST;2;SG	prägtest	1-2-3-4-5-6	_ _ _ _ _ 2
+feiern	feiere	V;SBJV;PST;3;SG	feierte	1-2-3-4-5-6	_ _ _ _ _ PST
+kratzen	kratzen	V;SBJV;PRS;1;SG	kratze	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Jahresendflügelfigur	Jahresendflügelfiguren	N;GEN;SG	Jahresendflügelfigur	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-21	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N GEN
+bemuttern	bemuttern	V.PTCP;PST	bemuttert	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Wahlprogramm	Wahlprogrammen	N;DAT;PL	Wahlprogrammen	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL
+Peroxomolybdat	Peroxomolybdat	N;NOM;SG	Peroxomolybdat	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Blässe	Blässe	N;DAT;SG	Blässe	1-2-3-4-5-6	_ _ _ _ _ _
+Pentaborat	Pentaborat	N;NOM;SG	Pentaborat	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+radfahren	radfahrt	V;IND;PRS;3;SG	fährt rad	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ IND
+entfolgen	entfolgen	V;IND;PST;1;PL	entfolgten	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+sündigen	sündigten	V;SBJV;PST;2;SG	sündigtest	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ 2 2 PST
+übertreffen	übertreffte	V;IND;PST;3;SG	übertraf	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND IND
+Hauptwurzel	Hauptwurzel	N;DAT;SG	Hauptwurzel	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Turnus	Turnuses	N;GEN;SG	Turnus	1-2-3-4-5-6-7-7	_ _ _ _ _ _ GEN GEN
+heparinisieren	heparinisiert	V;IND;PRS;3;SG	heparinisiert	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ IND
+Philanthrop	Philanthropen	N;DAT;PL	Philanthropen	1-2-3-4-5-6-7-8-9-10-11-12-12	_ _ _ _ _ _ _ _ _ _ _ PL PL
+hocken	hocktest	V;IND;PST;2;SG	hocktest	1-2-3-4-5-6-7-7	_ _ _ _ IND IND 2 2
+Duraluminium	Duraluminiumen	N;GEN;SG	Duraluminiums	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ GEN N
+Putzmann	Putzmann	N;DAT;SG	Putzmann	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Sklave	Sklaven	N;GEN;PL	Sklaven	1-2-3-4-5-6-7	_ _ _ _ _ _ PL
+Gießerei	Gießerei	N;ACC;PL	Gießereien	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Krämer	Krämer	N;ACC;PL	Krämer	1-2-3-4-5-6	_ _ _ _ _ _
+Tetrahydrat	Tetrahydrat	N;NOM;SG	Tetrahydrat	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+faszinieren	faszinierte	V;IND;PST;3;SG	faszinierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+Wahlkreis	Wahlkreis	N;GEN;SG	Wahlkreises	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Fischtreppe	Fischtreppe	N;NOM;SG	Fischtreppe	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Sympodium	Sympodium	N;ACC;SG	Sympodium	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Gleitkomma	Gleitkomma	N;ACC;SG	Gleitkomma	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+innehalten	innehaltete	V;SBJV;PST;1;SG	hielte inne	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ V PST
+klettern	kletterte	V;IND;PRS;3;PL	klettern	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ IND PL
+Steinobst	Steinobst	N;ACC;SG	Steinobst	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+schalten	schalteten	V;SBJV;PST;2;PL	schaltetet	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ 2 PL PL
+Museumsstück	Museumsstück	N;ACC;SG	Museumsstück	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+fusionieren	fusionierten	V;SBJV;PRS;1;PL	fusionieren	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ V SBJV PL
+Widerlegbarkeit	Widerlegbarkeiten	N;GEN;PL	Widerlegbarkeiten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL GEN
+Verabredung	Verabredung	N;DAT;SG	Verabredung	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Polygon	Polygon	N;ACC;SG	Polygon	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+deponieren	deponiertest	V;IND;PST;2;SG	deponiertest	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ IND PST 2 2
+entwerfen	werfest ent	V;IND;PRS;2;SG	entwirfst	4-5-6-7-8-9-10-10-1-2-3	_ _ _ _ _ PRS 2 IND _ _ _
+versteigern	versteigert	V;IND;PRS;3;PL	versteigern	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+Krise	Krise	N;NOM;SG	Krise	1-2-3-4-5	_ _ _ _ _
+gaffen	gaffete	V;SBJV;PST;3;SG	gaffte	1-2-3-4-5-6-7	_ _ _ _ _ V PST
+Diplomingenieurin	Diplomingenieurinen	N;DAT;PL	Diplomingenieurinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-18	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N PL
+Lade	Lade	N;DAT;SG	Lade	1-2-3-4	_ _ _ _
+Ausschuss	Ausschuss	N;NOM;SG	Ausschuss	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Prinzeß	Prinzeß	N;ACC;SG	Prinzeß	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+gebrauchen	gebrauchen	V;IND;PST;1;PL	gebrauchten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+rupfen	rupfet	V;SBJV;PST;2;SG	rupftest	1-2-3-4-5-6	_ _ _ _ _ 2
+vibrieren	vibrierten	V;IND;PST;1;PL	vibrierten	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ IND IND PL
+Permanganat	Permanganat	N;NOM;SG	Permanganat	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Freundin	Freundin	N;ACC;SG	Freundin	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Sozinianerin	Sozinianerinen	N;NOM;PL	Sozinianerinnen	1-2-3-4-5-6-7-8-9-10-11-12-13-13	_ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Beobachter	Beobachtern	N;ACC;PL	Beobachter	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ PL
+Klassenkameradin	Klassenkameradin	N;NOM;SG	Klassenkameradin	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+freisetzen	setzenenten	V;SBJV;PST;3;PL	setzten frei	5-6-7-8-9-10-11-11-11-11-11	_ _ _ _ _ _ PST PL V PL PL
+Farbenpracht	Farbenpracht	N;ACC;SG	Farbenpracht	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+billigen	billigen	V;IND;PRS;3;PL	billigen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Mieze	Mieze	N;DAT;SG	Mieze	1-2-3-4-5	_ _ _ _ _
+Birne	Birne	N;NOM;PL	Birnen	1-2-3-4-5	_ _ _ _ _
+blitzen	blitzeten	V;IND;PST;3;PL	blitzten	1-2-3-4-5-6-7-8-8	_ _ _ _ _ _ IND IND PL
+entschlüsseln	entschlüsselt	V;IMP;2;SG	entschlüssle	1-2-3-4-5-6-7-8-9-10-11-12-13	_ _ _ _ _ _ _ _ _ _ _ _ 2
+Delikt	Delikt	N;DAT;SG	Delikt	1-2-3-4-5-6	_ _ _ _ _ _
+mumifizieren	mumifizierte	V;SBJV;PRS;2;PL	mumifizieret	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ PL PL
+flattern	lattertest	V;SBJV;PST;1;SG	flatterte	2-3-4-5-6-7-8-9-9-9	_ _ _ _ _ _ V SBJV SG V
+eröffnen	eröffnen	V;IND;PST;1;PL	eröffneten	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Quantencomputer	Quantencomputer	N;NOM;SG	Quantencomputer	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+pasteurisieren	pasteurisierten	V;SBJV;PST;3;PL	pasteurisierten	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ PST PST PL
+zuppen	zuppeten	V;IND;PST;3;PL	zuppten	1-2-3-4-5-6-7-7	_ _ _ _ _ IND IND PL
+erleben	erleben	V;SBJV;PRS;3;PL	erleben	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+balkanisieren	balkanisiert	V;SBJV;PRS;2;SG	balkanisierest	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ 2
+Trinkgefäß	Trinkgefäß	N;ACC;SG	Trinkgefäß	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+realisieren	realisierte	V;IND;PST;1;SG	realisierte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ IND PST
+verkrusten	verkrusteten	V;SBJV;PST;2;PL	verkrustetet	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ 2 PL PL
+Harpune	Harpunen	N;GEN;PL	Harpunen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ PL
+pochen	pochen	V;SBJV;PST;1;PL	pochten	1-2-3-4-5-6	_ _ _ _ _ _
+servieren	servierte	V;SBJV;PRS;3;PL	servieren	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ V V
+Hinkelstein	Hinkelstein	N;DAT;SG	Hinkelstein	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+erliegen	erliegen	V;SBJV;PRS;3;PL	erliegen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Bodyguard	Bodyguard	N;NOM;SG	Bodyguard	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+Bergarbeiter	Bergarbeiter	N;DAT;SG	Bergarbeiter	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+demobilisieren	demobilisierte	V;IND;PRS;3;PL	demobilisieren	1-2-3-4-5-6-7-8-9-10-11-12-13-14	_ _ _ _ _ _ _ _ _ _ _ _ IND IND
+stauen	stauet	V;SBJV;PRS;2;PL	stauet	1-2-3-4-5-6	_ _ _ _ _ 2
+versemmeln	versemmelten	V;IND;PST;1;PL	versemmelten	1-2-3-4-5-6-7-8-9-10-11-11	_ _ _ _ _ _ _ _ _ IND PL PL
+Energiegewinnung	Energiegewinnungen	N;ACC;PL	Energiegewinnungen	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-17	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Dreckloch	Drecklochen	N;NOM;PL	Drecklöcher	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ _ PL PL
+Honigdachs	Honigdachs	N;NOM;SG	Honigdachs	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+Kabeljau	Kabeljaues	N;GEN;SG	Kabeljaus	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ _ GEN GEN
+panaschieren	panaschierte	V;IND;PST;2;SG	panaschiertest	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ PST PST
+verschütten	verschütten	V;NFIN	verschütten	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+buchstabieren	buchstabiert	V;IND;PRS;1;SG	buchstabiere	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ IND
+torpedieren	torpediert	V;IND;PRS;2;PL	torpediert	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ IND
+schmeicheln	schmeichelt	V;IND;PST;1;SG	schmeichelte	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ IND
+rechnen	rechnen	V;SBJV;PST;1;PL	rechneten	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Industrieland	Industrielanden	N;DAT;PL	Industrieländern	1-2-3-4-5-6-7-8-9-10-11-12-13-14-14	_ _ _ _ _ _ _ _ _ _ _ _ _ PL PL
+Krustentier	Krustentiern	N;GEN;PL	Krustentiere	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ N
+kremen	kremet	V;SBJV;PRS;2;PL	kremet	1-2-3-4-5-6	_ _ _ _ _ 2
+bemängeln	bemängelt	V;IND;PST;2;SG	bemängeltest	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ IND
+abscheiden	heiden ab	V;IND;PST;3;SG	schied ab	5-6-7-8-9-10-11-1-2	_ _ _ _ _ _ 3 _ _
+Beherrschung	Beherrschung	N;ACC;SG	Beherrschung	1-2-3-4-5-6-7-8-9-10-11-12	_ _ _ _ _ _ _ _ _ _ _ _
+EL	ELss	N;NOM;SG	EL	1-2-3-3	_ _ N N
+rawben	rawben	V.PTCP;PST	gerawbt	1-2-3-4-5-6	_ _ _ _ _ _
+hupen	hupe	V;IND;PRS;1;SG	hupe	1-2-3-4	_ _ _ _
+Fässchen	Fässchen	N;NOM;SG	Fässchen	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+verfärben	verfärbeten	V;SBJV;PST;3;PL	verfärbten	1-2-3-4-5-6-7-8-9-10-10	_ _ _ _ _ _ _ _ V PL PL
+Schale	Schale	N;NOM;SG	Schale	1-2-3-4-5-6	_ _ _ _ _ _
+benachrichtigen	benachrichtigen	V.PTCP;PRS	benachrichtigend	1-2-3-4-5-6-7-8-9-10-11-12-13-14-15	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Bürogebäude	Bürogebäude	N;NOM;SG	Bürogebäude	1-2-3-4-5-6-7-8-9-10-11	_ _ _ _ _ _ _ _ _ _ _
+Lesbarkeit	Lesbarkeit	N;ACC;SG	Lesbarkeit	1-2-3-4-5-6-7-8-9-10	_ _ _ _ _ _ _ _ _ _
+spötteln	spötteln	V.PTCP;PRS	spöttelnd	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
+Parkplatz	Parkplatz	N;NOM;SG	Parkplatz	1-2-3-4-5-6-7-8-9	_ _ _ _ _ _ _ _ _
+veredeln	veredelten	V;SBJV;PST;3;PL	veredelten	1-2-3-4-5-6-7-8-9-9	_ _ _ _ _ _ _ V PL PL
+anmelden	anmeldtenten	V;IND;PST;2;PL	meldetet an	1-2-3-4-5-6-7-8-9-9-9-9	_ _ _ _ _ _ IND IND PL 2 PL PL
+Monokel	Monokel	N;ACC;SG	Monokel	1-2-3-4-5-6-7	_ _ _ _ _ _ _
+Hehlerei	Hehlerei	N;DAT;PL	Hehlereien	1-2-3-4-5-6-7-8	_ _ _ _ _ _ _ _
